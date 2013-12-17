@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# packages
+TS_PACKAGES="rubygems ruby1.9.1-dev"
+
+apt-get update && apt-get install ${TS_PACKAGES} -y 
+
+# ruby
+gem install jekyll

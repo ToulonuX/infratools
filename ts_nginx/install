@@ -1,0 +1,7 @@
+#!/bin/bash
+
+TS_PACKAGES="nginx"
+#TS_PACKAGES="nginx mysql-server mysql-client php5-fpm"
+
+apt-get update && apt-get install ${TS_PACKAGES} -y 
+
