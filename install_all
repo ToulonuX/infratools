@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./ts_nginx/install
+./ts_jekyll/install
