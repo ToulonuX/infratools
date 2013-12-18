@@ -9,7 +9,7 @@ scripts/doc used to deploy a Toulonux server [TS]
 | ------- | ------------------ | --------- | ------------ |
 |   IC    | Web                | nginx     | Mikael       |
 |   IC    | Wiki               | Jekyll    |              |
-|         | SCM                | Git       |              |
+|         | SCM                | Git       | Fedir        |
 |         | Collaborating  doc | EtherPad  |              |
 |         | Private cloud      | Seafile   | manuel-m     |
 |         | Webmail            | Roundcube | vladz        |
